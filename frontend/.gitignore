@@ -31,4 +31,4 @@ README.md
 vite.config.js
 postcss.config.js
 tailwind.config.js
-esclint.cjs
+.esclint.cjs
